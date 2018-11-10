@@ -398,6 +398,7 @@ SNOOPY_CONFIGURE_DATASOURCE_ENABLE( [timestamp_us],   [microsecond part of curre
 SNOOPY_CONFIGURE_DATASOURCE_ENABLE( [tty],            [path to TTY performing the execution])
 SNOOPY_CONFIGURE_DATASOURCE_ENABLE( [tty_uid],        [UID of TTY performing the execution])
 SNOOPY_CONFIGURE_DATASOURCE_ENABLE( [tty_username],   [literal username of TTY performing the execution])
+SNOOPY_CONFIGURE_DATASOURSE_ENABLE( [tty_sid],        [SID of TTY performing the execution])
 SNOOPY_CONFIGURE_DATASOURCE_ENABLE( [uid],            [numeric UID that executed the process])
 SNOOPY_CONFIGURE_DATASOURCE_ENABLE( [username],       [literal username of UID that executed the process])
 # ==============================================================================
